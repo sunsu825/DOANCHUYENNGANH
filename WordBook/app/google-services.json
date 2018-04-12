@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "975520338535",
+    "firebase_url": "https://wordbook-b58bb.firebaseio.com",
+    "project_id": "wordbook-b58bb",
+    "storage_bucket": "wordbook-b58bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975520338535:android:6ff5fa02ebe4b19f",
+        "android_client_info": {
+          "package_name": "com.example.tuanh.wordbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975520338535-p1e9bj7ts9np9flub6irkt8v22jnrr86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuanh.wordbook",
+            "certificate_hash": "bcf35375989bdabc6f15c4145a02e7d99afeb027"
+          }
+        },
+        {
+          "client_id": "975520338535-42mu4jhsblpo2752pg7djq6a2ekeqkro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGyutE_DS9eqatnGuvobIV2B1GAia0Mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975520338535-42mu4jhsblpo2752pg7djq6a2ekeqkro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

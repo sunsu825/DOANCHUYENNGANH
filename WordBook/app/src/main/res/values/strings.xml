@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WordBook</string>
+    <string name="enter_password">Enter PassWord</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="enter_username">Enter Username</string>
+</resources>
